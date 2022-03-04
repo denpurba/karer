@@ -1,0 +1,39 @@
+{
+  "name": "Karir Indonesia",
+  "short_name": "Karer.my.id",
+  "scope": "https://www.karer.my.id",
+  "start_url": "https://www.karer.my.id",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#00008b",
+  "description": "Media Lowongan Kerja CPNS dan BUMN Terbaru",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s48",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s72",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s96",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s144",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s168",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s192",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjUuQ9hcf-3NjCNhK5bxwTuOv7J7dxyFKaKHvtGnzGCoXhoGDSiV4q3TChnLaMin5ZqpuygCToBOOQl_zhj9dT0W8conCboAmri6y3lMDVQiHUsOGPkFZmy5Yro-wheGCA7lrmh8SrUYTmfh_SoM2kmIjUq6WyQdNx4PX7vij3K6rk2VJxSDZIz1EYA=s512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
